@@ -1,0 +1,8 @@
+# Build output
+index
+peer
+*.o
+
+# Editor / OS
+*~
+.DS_Store
